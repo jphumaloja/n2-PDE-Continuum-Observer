@@ -1,0 +1,5 @@
+MATLAB codes to reproduce the simulation results from Section 4 of the paper "Output-feedback backstepping stabilization of large-scale n+m coupled hyperbolic
+PDEs via continuum kernels and observer" by Jukka-Pekka Humaloja and Nikolaos Bekiaris-Liberis.
+Copyright (C) 2026 by Jukka-Pekka Humaloja
+
+The project is lincesed under  CC BY-NC-ND. For a copy of the license, see https://creativecommons.org/licenses/by-nc-nd/4.0/
